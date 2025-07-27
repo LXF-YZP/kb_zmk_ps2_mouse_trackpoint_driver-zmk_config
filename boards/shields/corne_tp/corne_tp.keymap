@@ -35,6 +35,8 @@
                         &kp LEFT_ALT  &kp LGUI               &kp BSLH   &kp GRAVE         &mo 1   &mt LCTRL ENTER             &smart_shift &lt 3 DOWN      &kp LBKT   &kp RBKT  &kp BACKSPACE   &kp SPACE
                         >;
                 };
+
+                
                 lower_layer {
 
                         bindings = <
